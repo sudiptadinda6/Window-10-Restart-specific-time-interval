@@ -1,7 +1,7 @@
 <h1>Window 10 server Restart By Specific Interval Of Time</h1>
 
 <ol>
-<li> Create a File With .vat Extension </li> 
+<li> Create a File With .bat Extension </li> 
 <li> Write Script This .bat <image src="./image/pic1.png" width='700' ></li>
 <li>`@echo off  <br>
 echo Restarting the server...  <br>
