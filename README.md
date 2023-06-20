@@ -7,7 +7,7 @@ echo Restarting the server...
 shutdown /r /t 0`  
 4. save this code 
 5. open task Scheduler and click create basic task   <image src="./image/pic2.png" width='700' >  
-6. name this task and description add task description  
+6. name this task and description add task description    
 7. next button click  
 8. select task trigger for daily restart that why select daily trigger   <image src="./image/pic3.png" width='700'>
 9. click next button  
