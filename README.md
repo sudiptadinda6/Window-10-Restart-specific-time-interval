@@ -2,9 +2,9 @@
 
 1. Create a File With .bat Extension  
 2. Write Script This .bat <br> <image src="./image/pic1.png" width='700' >  
-3.`@echo off  <br>
-echo Restarting the server...  <br>
-shutdown /r /t 0`  <br>
+3.`@echo off  
+echo Restarting the server...  
+shutdown /r /t 0`  
 4. save this code 
 5. open task Scheduler and click create basic task   <image src="./image/pic2.png" width='700' >  
 6. name this task and description add task description  
