@@ -3,9 +3,10 @@
 <ol>
 <li> Create a File With .vat Extension </li> 
 <li> Write Script This .bat File </li>
-<li>`@echo off
-echo Restarting the server...
-shutdown /r /t 0` </li> 
+<li>`@echo off  <br>
+echo Restarting the server...  <br>
+shutdown /r /t 0`  <br>
+</li> 
 <li> save this code </li>
 <li>open task Scheduler and click create basic task </li>
 <li>name this task and description add task description</li>
