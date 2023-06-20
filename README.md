@@ -9,11 +9,11 @@ shutdown /r /t 0`
 5. open task Scheduler and click create basic task   <image src="./image/pic2.png" width='700' >  
 6. name this task and description add task description  
 7. next button click  
-8. select task trigger for daily restart that why select daily trigger   <image src="./image/pic3.png" width='700' >
+8. select task trigger for daily restart that why select daily trigger   <image src="./image/pic3.png" width='700'>
 9. click next button  
 10. select time setup in daily  
 11. than select next button  
-12. action page start a program   <image src="./image/pic4.png" width='700' >  
+12. action page start a program   <image src="./image/pic4.png" width='700' >    
 13. than click next button  
 14. select .vat file in browse input box skip all the option  <image src="./image/pic5.png" width='700'>
 15. then click next button  
