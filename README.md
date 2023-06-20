@@ -2,7 +2,7 @@
 
 <ol>
 <li> Create a File With .vat Extension </li> 
-<li> Write Script This .vat File </li>
+<li> Write Script This .bat File </li>
 <li>`@echo off
 echo Restarting the server...
 shutdown /r /t 0` </li> 
