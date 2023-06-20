@@ -2,7 +2,7 @@
 
 <ol>
 <li> Create a File With .vat Extension </li> 
-<li> Write Script This .bat <image src="./image/pic1.png" width='300' ></li>
+<li> Write Script This .bat <image src="./image/pic1.png" width='700' ></li>
 <li>`@echo off  <br>
 echo Restarting the server...  <br>
 shutdown /r /t 0`  <br>
