@@ -15,7 +15,7 @@ shutdown /r /t 0`
 11. than select next button  
 12. action page start a program   <image src="./image/pic4.png" width='700' >    
 13. than click next button  
-14. select .vat file in browse input box skip all the option  <image src="./image/pic5.png" width='700'>
+14. select .bat file in browse input box skip all the option  <image src="./image/pic5.png" width='700'>
 15. then click next button  
 16. summary page click finish button start this task  <image src="./image/pic6.png" width='700'>
 
