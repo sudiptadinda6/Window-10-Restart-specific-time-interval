@@ -2,9 +2,7 @@
 
 1. Create a File With .bat Extension  
 2. Write Script This .bat <br> <image src="./image/pic1.png" width='700' >  
-3.`@echo off  
-echo Restarting the server...  
-shutdown /r /t 0`  
+3. write code in bat file that write in last_sunday.bat file   
 4. save this code 
 5. open task Scheduler and click create basic task   <image src="./image/pic2.png" width='700' >  
 6. name this task and description add task description    
@@ -22,4 +20,15 @@ shutdown /r /t 0`
 
 after start this task window server automatically restart par day specific time
 
+h1>Ubantu server Restart By Specific Interval Of Time</h1>
 
+1. Create a File With .sh Extension  
+2. Write Script This .sh <br> <image src="./image/ubantu2.png" width='700' >  
+3. write code in sh file that write in last_sunday_check.sh file   
+4. save this code 
+5. open ubantu terminal and write this commend `sudo crontab -e`  
+6. if get your ubantu machine password and enter set date and time when server restart follow this picture  <image src="./image/ubantu1.png" width='700' >  
+6. set this in your machine like this show in picture and enter   <image src="./image/ubantu3.png" width='700' >
+
+after set this ubantu server automatically restart par day specific time
+ 
